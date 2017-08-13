@@ -259,3 +259,10 @@ table,td,th{
 .tabla{
 	margin: 50 px 0;
 }
+
+@media:screen and (max-width: 800px){
+body{
+	
+
+}
+}
